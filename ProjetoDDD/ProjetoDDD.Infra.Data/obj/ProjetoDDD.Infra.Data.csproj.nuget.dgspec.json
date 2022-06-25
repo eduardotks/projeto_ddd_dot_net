@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD.Infra.Data\\ProjetoDDD.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD.Infra.Data\\ProjetoDDD.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD.Infra.Data\\ProjetoDDD.Infra.Data.csproj",
+        "projectName": "ProjetoDDD.Infra.Data",
+        "projectPath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD.Infra.Data\\ProjetoDDD.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD\\ProjetoDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD\\ProjetoDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD\\ProjetoDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD\\ProjetoDDD.Domain.csproj",
+        "projectName": "ProjetoDDD.Domain",
+        "projectPath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD\\ProjetoDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
