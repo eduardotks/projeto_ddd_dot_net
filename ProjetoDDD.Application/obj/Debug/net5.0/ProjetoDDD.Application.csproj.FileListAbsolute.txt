@@ -1,0 +1,12 @@
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Application.deps.json
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Application.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Application.pdb
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.csproj.AssemblyReference.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.AssemblyInfoInputs.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.AssemblyInfo.cs
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\refint\ProjetoDDD.Application.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.pdb
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.Application\obj\Debug\net5.0\ref\ProjetoDDD.Application.dll

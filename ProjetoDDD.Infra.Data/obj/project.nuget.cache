@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FBszfJMAcl4pkOS+l4/CwWIUCX+/heOZ9tyh7qIopmnGnGtZak/6WGtzj4ItRbcW9EKbVTUkihWyRSZeXzZGg==",
+  "dgSpecHash": "d8wFU8ejBuMB+VlsmkH+OdpNOiMmbR0v0MVAUCtyahpLytC5XsPL6Az3AqS75GpLhMwv490N/CuxHeqrpMTYJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\ProjetoDDD\\projeto_ddd_dot_net\\ProjetoDDD\\ProjetoDDD.Infra.Data\\ProjetoDDD.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\DEV\\OneDrive\\Área de Trabalho\\repositorio\\projeto_ddd_dot_net\\ProjetoDDD.Infra.Data\\ProjetoDDD.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DEV\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\DEV\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

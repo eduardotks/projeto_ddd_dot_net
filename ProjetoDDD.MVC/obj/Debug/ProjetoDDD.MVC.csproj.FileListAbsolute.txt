@@ -1,0 +1,2 @@
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.AssemblyReference.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.CoreCompileInputs.cache

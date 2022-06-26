@@ -10,3 +10,15 @@ C:\Users\DEV\OneDrive\Área de Trabalho\ProjetoDDD\projeto_ddd_dot_net\ProjetoDD
 C:\Users\DEV\OneDrive\Área de Trabalho\ProjetoDDD\projeto_ddd_dot_net\ProjetoDDD\ProjetoDDD\obj\Debug\net5.0\refint\ProjetoDDD.Domain.dll
 C:\Users\DEV\OneDrive\Área de Trabalho\ProjetoDDD\projeto_ddd_dot_net\ProjetoDDD\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.pdb
 C:\Users\DEV\OneDrive\Área de Trabalho\ProjetoDDD\projeto_ddd_dot_net\ProjetoDDD\ProjetoDDD\obj\Debug\net5.0\ref\ProjetoDDD.Domain.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\bin\Debug\net5.0\ProjetoDDD.Domain.deps.json
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\bin\Debug\net5.0\ProjetoDDD.Domain.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\bin\Debug\net5.0\ProjetoDDD.Domain.pdb
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.AssemblyInfo.cs
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\refint\ProjetoDDD.Domain.dll
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ProjetoDDD.Domain.pdb
+C:\Users\DEV\OneDrive\Área de Trabalho\repositorio\projeto_ddd_dot_net\ProjetoDDD\obj\Debug\net5.0\ref\ProjetoDDD.Domain.dll
